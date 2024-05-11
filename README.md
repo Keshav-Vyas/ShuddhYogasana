@@ -3,6 +3,12 @@
 
 **ShuddhYogasana** combines two words: "Shuddh," which is a Sanskrit word meaning "pure" or "clean," and "Yogasana," which refers to yoga poses. Together, "ShuddhYogasana" conveys the idea of purity or clarity in identifying and classifying yoga poses accurately.
 
+
+![Logo](https://github.com/Keshav-Vyas/ShuddhYogasana/assets/155935444/dcbc1914-7a91-4d39-b99f-fb44f8ba5374)
+
+![Test](https://github.com/Keshav-Vyas/ShuddhYogasana/assets/155935444/916e72b9-e740-4159-9860-1936e09ff0ba)
+
+
 ## Installation
 
 Install the following Python libraries
