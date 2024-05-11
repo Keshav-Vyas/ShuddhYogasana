@@ -5,8 +5,7 @@
 
 
 ![Logo](https://github.com/Keshav-Vyas/ShuddhYogasana/assets/155935444/dcbc1914-7a91-4d39-b99f-fb44f8ba5374)
-
-![Test](https://github.com/Keshav-Vyas/ShuddhYogasana/assets/155935444/916e72b9-e740-4159-9860-1936e09ff0ba)
+![Test](https://github.com/Keshav-Vyas/ShuddhYogasana/assets/155935444/3a8f7234-308f-4075-b715-5021dcfc4bb3)
 
 
 ## Installation
